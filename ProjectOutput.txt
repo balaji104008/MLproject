@@ -1,0 +1,4 @@
+OUTPUT:
+
+    R - squared score:0.90
+    predicted price:35000.0
